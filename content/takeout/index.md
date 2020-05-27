@@ -1,5 +1,6 @@
 ---
 title: "Takeout"
+menu: main
 ---
 
 
