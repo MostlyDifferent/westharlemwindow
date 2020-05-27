@@ -2,3 +2,17 @@ baseURL = "https://westharlemwindow.onrender.com/"
 languageCode = "en-us"
 title = "West Harlem Window"
 theme = "mainroad"
+
+
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  facebook = "mostlydifferent"
+  twitter = "mostlydiff"
+  instagram = "westharlemwindow"
+  linkedin = "alex-sramek"
+  #telegram = "username"
+  #github = "username"
+  #gitlab = "username"
+  #bitbucket = "username"
+  email = "mostlydifferent@gmail.com"
