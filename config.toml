@@ -3,6 +3,10 @@ languageCode = "en-us"
 title = "West Harlem Window"
 theme = "mainroad"
 
+# unsafe = true lets it parse html tags, such as <br/>
+ [markup.goldmark.renderer]
+      unsafe = true
+
 [Params.sidebar]
   home = "right" # Configure layout for home page
   list = "left"  # Configure layout for list pages
