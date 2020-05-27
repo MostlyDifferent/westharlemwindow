@@ -2,17 +2,23 @@ baseURL = "https://westharlemwindow.onrender.com/"
 languageCode = "en-us"
 title = "West Harlem Window"
 theme = "mainroad"
+#theme = "zzo"
 
 # unsafe = true lets it parse html tags, such as <br/>
  [markup.goldmark.renderer]
       unsafe = true
 
+
+[Params.logo]
+  title = "West Harlem Window" # Logo title, otherwise will use site title
+  subtitle = "Hamilton Heights in Interesting Times" # Logo subtitle
+
 [Params.sidebar]
   home = "right" # Configure layout for home page
-  list = "left"  # Configure layout for list pages
-  single = false # Configure layout for single pages
+  list = "right"  # Configure layout for list pages
+  single = "right" # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["recent", "categories", "taglist", "social", "languages"]
+  widgets = ["sidemenu","recent", "categories", "taglist", "social", "languages", "snap"]
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
