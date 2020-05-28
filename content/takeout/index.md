@@ -1,15 +1,17 @@
 ---
 title: "Takeout"
-menu: main
+menu: ["main", "side"]
+weight: 100
 ---
 
-
+:heart:
 During the COVID-19 shutdown, it can be difficult to know which restaurants are open. Hours and menus are changing all the time. Below is the best information I have for takeout/delivery in the neighborhood.
 
 Please make an effort to call direct or use their preferred website if available, as some apps are charging huge fees. Most of these establishments can also be found online via GrubHub, DoorDash, UberEats, etc. Where possible, their preferred method of ordering is listed.
 
-Keeping this list to Hamilton Heights and walkable vicinity for the moment. Any additions or corrections are appreciated at mostlydifferent@gmail.com
+Keeping this list to Hamilton Heights and walkable vicinity for the moment. Any additions or corrections are appreciated at westharlemwindow@gmail.com
 
+ :white_check_mark: If we confirm the business's preferred ordering method, it's marked with a check.
 
 ## At/Near Broadway
 ### Below 135
@@ -19,7 +21,7 @@ SEE ALSO: [Upper Morningside Mutual Aid](http://uppermorningsidemutualaid.org/) 
 
 | Name                        | Contact                         | Notes        |
 | :-------------------------- | :---------------------------: | :------------------- |
-| Dear Mama | [Website](https://www.dearmamacoffee.com/) | Can also buy coffee for frontline workers and meals for neighbors.|
+| Dear Mama | [Website](https://www.dearmamacoffee.com/) | :coffee: Can also buy coffee for frontline workers and meals for neighbors.|
 | Dinosaur BBQ | [Website](https://www.dinosaurbarbque.com/harlem/) | | 
 | Go Go Curry | | |
 | Jin Ramen | [Website](https://www.jinramen.com/) |  Order direct on their website for free delivery and no service charge *(sign 4/30)*|
@@ -34,12 +36,12 @@ SEE ALSO: [Upper Morningside Mutual Aid](http://uppermorningsidemutualaid.org/) 
 ### 135-145
 | Name                        | Contact                         | Notes        |
 | :-------------------------- | :---------------------------: | :------------------- |
-| Bus Stop Diner | [Website](http://busstopdiner.nyc/) <br/> 212-690-2150 | EXTENDED HOURS: Now Open 24/7 |
+| Bus Stop Diner |  :white_check_mark: [Website](http://busstopdiner.nyc/) <br/> 212-690-2150 | EXTENDED HOURS: Now Open 24/7 |
 | Mofongo del Valle | | |
 | Flor de Broadway | | 10am-8pm (reopened 4/27)|
 | La Lonchera | | |
 | Picante | | |
-| Trufa | [Website](https://trufarestaurant.com/) <br/>646-522-4142 <br/> 212-281-6165 | Call or order on their website. <br/>Coffee mugs for sale with original artwork. <br/> Reopened after brief closure due to gas leak. Limited menu as they adjust to an electric kitchen awaiting gas line repair.|
+| Trufa |  :white_check_mark:[Website](https://trufarestaurant.com/) <br/> :white_check_mark:646-522-4142 <br/>  :white_check_mark:212-281-6165 |  :wine_glass: Call or order on their website. <br/>Coffee mugs for sale with original artwork. <br/> Reopened after brief closure due to gas leak. Limited menu as they adjust to an electric kitchen awaiting gas line repair.|
 | Frijolito's | | Sun-Thurs 2-9pm. Fri-Sat 2-10pm |
 | Lyn-Genet's Kitchen | [Website](https://lyngenetskitchen.com/) | LIMITED HOURS Wed-Sun 4-8pm |
 | Geisha | [Website](http://www.geisha3470ny.com/) <br/>212-862-7800 | Sign outside says: Call for pickup. UberEats for delivery. *(5/3)* <br/>Supposedly also offering 15% off all orders over $10 at above website. *(5/2)* |
@@ -77,7 +79,7 @@ Need to check on Asian places down the hill
 | Home Sweet Harlem | [Website](https://homesweetharlem.nyc/) <br/> 212-926-9616 | During busy hours, delivery apps work best for faster service. <br/>Mon/Tue closes 3pm. Wed-Sun closes 10pm. |
 | Clove | | Reopened as of 5/16 |
 | Uncle Tony's Pizza | [Website](https://www.uncletonysnyc.com/) | Now Open Lunch and Dinner (as of 5/11) |
-| Fumo | [Website](https://www.fumorestaurant.com/harlem/) <br/> 646-692-6675 | Discount for orders placed on their site. Temporarily no Brunch menu. |
+| Fumo |  :white_check_mark:[Website](https://www.fumorestaurant.com/harlem/) <br/>  :white_check_mark:646-692-6675 | Discount for orders placed on their site. Temporarily no Brunch menu. |
 | Oso | [Website](https://osoharlem.square.site/)<br/>646-858-3139 |  Open Tues-Sun 2pm-9pm |
 | Double Dutch Coffee | | has a sign saying they're open. Was closed when I walked past, but may have been outside of their hours. |
 | The Grange | [Website](https://thegrangebarnyc.com/) <br/> 212-491-1635 | Open 4-10pm. Sat/Sun also brunch 12-4. |
@@ -116,4 +118,3 @@ Need to check on Asian places down the hill
 | Pizza by Lucille's | [Website](https://www.pizzabylucilles.com/) | |
 | Tulcimexico | 646-370-6842 | |
 | Common Good | [Website](https://www.commongoodharlem.com/) | |
-

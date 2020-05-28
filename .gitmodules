@@ -4,3 +4,18 @@
 [submodule "themes/mainroad"]
 	path = themes/mainroad
 	url = https://github.com/vimux/mainroad
+[submodule "themes/hugo-travelify-theme"]
+	path = themes/hugo-travelify-theme
+	url = https://github.com/balaramadurai/hugo-travelify-theme.git
+[submodule "themes/onepress"]
+	path = themes/onepress
+	url = https://github.com/ijsucceed/onepress.git
+[submodule "themes/hugo-theme-prav"]
+	path = themes/hugo-theme-prav
+	url = https://github.com/pravin/hugo-theme-prav.git
+[submodule "themes/hugo-theme-learn"]
+	path = themes/hugo-theme-learn
+	url = https://github.com/matcornic/hugo-theme-learn.git
+[submodule "themes/zzo"]
+	path = themes/zzo
+	url = https://github.com/zzossig/hugo-theme-zzo.git

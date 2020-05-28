@@ -4,6 +4,8 @@ title = "West Harlem Window"
 theme = "mainroad"
 #theme = "zzo"
 
+enableEmoji = true
+
 # unsafe = true lets it parse html tags, such as <br/>
  [markup.goldmark.renderer]
       unsafe = true
@@ -26,12 +28,16 @@ theme = "mainroad"
 
 [Params.widgets.social]
   # Enable parts of social widget
-  facebook = "mostlydifferent"
-  twitter = "mostlydiff"
+  #facebook = "mostlydifferent"
+  #twitter = "mostlydiff"
   instagram = "westharlemwindow"
-  linkedin = "alexsramek"
+  #linkedin = "alexsramek"
   #telegram = "username"
   #github = "username"
   #gitlab = "username"
   #bitbucket = "username"
-  email = "mostlydifferent@gmail.com"
+  email = "westharlemwindow@gmail.com"
+
+
+
+
