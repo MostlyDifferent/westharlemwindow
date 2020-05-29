@@ -2,6 +2,7 @@
 title: "Takeout"
 menu: ["main", "side"]
 weight: 100
+sidebar: false
 ---
 
 :heart:
@@ -9,7 +10,7 @@ During the COVID-19 shutdown, it can be difficult to know which restaurants are 
 
 Please make an effort to call direct or use their preferred website if available, as some apps are charging huge fees. Most of these establishments can also be found online via GrubHub, DoorDash, UberEats, etc. Where possible, their preferred method of ordering is listed.
 
-Keeping this list to  Heights and walkable vicinity for the moment. Any additions or corrections are appreciated at westharlemwindow@gmail.com
+Keeping this list to Hamilton Heights and walkable vicinity for the moment. Any additions or corrections are appreciated at westharlemwindow@gmail.com
 
 I've also included some icons where appropriate:
 
