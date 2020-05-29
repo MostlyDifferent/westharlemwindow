@@ -11,7 +11,15 @@ Please make an effort to call direct or use their preferred website if available
 
 Keeping this list to Hamilton Heights and walkable vicinity for the moment. Any additions or corrections are appreciated at westharlemwindow@gmail.com
 
- :white_check_mark: If we confirm the business's preferred ordering method, it's marked with a check.
+I've also included some icons where appropriate:
+
+ :white_check_mark: Confirmed that the restaurant prefers you ordering by this method.
+ 
+ :bike: Has their own delivery fleet. That is, they can deliver without GrubHub, etc.
+
+ :beer: :wine_glass: :cocktail: Available alcohol options
+ 
+ :coffee: Coffee!
 
 ## At/Near Broadway
 ### Below 135
@@ -25,10 +33,10 @@ SEE ALSO: [Upper Morningside Mutual Aid](http://uppermorningsidemutualaid.org/) 
 | Dinosaur BBQ | [Website](https://www.dinosaurbarbque.com/harlem/) | | 
 | Go Go Curry | | |
 | Jin Ramen | [Website](https://www.jinramen.com/) |  Order direct on their website for free delivery and no service charge *(sign 4/30)*|
-| Toast | | |
+| Toast | | :beer: :wine_glass: :cocktail: |
 | Falafel on Broadway | | Reopened early May |
 | Craftsman | | Will be open This Saturday May 2, 2-8pm *(sign 4/30)* |
-| El Porton | 212-665-7338 | *(saw friendly signs in the window, 4/30)* | 
+| El Porton | 212-665-7338 | :beer: :wine_glass: :cocktail: *(saw friendly signs in the window, 4/30)* | 
 | Captain Loui | [Website](https://www.waitlist.me/w/captlouibroadway) | 3:30-7:30pm. Closed Tuesday *(sign 4/30)* |
 | Bettolona | [Website](https://www.bettolonanyc.com) <br/> [Facebook](https://www.facebook.com/Bettolona-145708885479882) <br/> 212-749-1125 | Open for Pickup and Delivery *(sign 4/30)* |
 | Pisticci | [Website](http://www.pisticcinyc.com/) <br/> 212-932-3500 | Open for delivery 5-10pm *(sign 4/30)* |
@@ -36,14 +44,14 @@ SEE ALSO: [Upper Morningside Mutual Aid](http://uppermorningsidemutualaid.org/) 
 ### 135-145
 | Name                        | Contact                         | Notes        |
 | :-------------------------- | :---------------------------: | :------------------- |
-| Bus Stop Diner |  :white_check_mark: [Website](http://busstopdiner.nyc/) <br/> 212-690-2150 | EXTENDED HOURS: Now Open 24/7 |
+| Bus Stop Diner |  :white_check_mark: [Website](http://busstopdiner.nyc/) <br/> 212-690-2150 | :coffee: EXTENDED HOURS: Now Open 24 hrs Tues-Sun. Monday closes 11pm. |
 | Mofongo del Valle | | |
-| Flor de Broadway | | 10am-8pm (reopened 4/27)|
-| La Lonchera | | |
+| Flor de Broadway | | :coffee: 10am-8pm (reopened 4/27)|
+| La Lonchera | |:coffee: |
 | Picante | | |
-| Trufa |  :white_check_mark:[Website](https://trufarestaurant.com/) <br/> :white_check_mark:646-522-4142 <br/>  :white_check_mark:212-281-6165 |  :wine_glass: Call or order on their website. <br/>Coffee mugs for sale with original artwork. <br/> Reopened after brief closure due to gas leak. Limited menu as they adjust to an electric kitchen awaiting gas line repair.|
+| Trufa |  :white_check_mark:[Website](https://trufarestaurant.com/) <br/> :white_check_mark:646-522-4142 <br/>  :white_check_mark:212-281-6165 | :bicycle: :beer: :wine_glass: Call or order on their website. <br/>Coffee mugs for sale with original artwork. <br/> Reopened after brief closure due to gas leak. Limited menu as they adjust to an electric kitchen awaiting gas line repair.|
 | Frijolito's | | Sun-Thurs 2-9pm. Fri-Sat 2-10pm |
-| Lyn-Genet's Kitchen | [Website](https://lyngenetskitchen.com/) | LIMITED HOURS Wed-Sun 4-8pm |
+| Lyn-Genet's Kitchen | [Website](https://lyngenetskitchen.com/) | :beer: :wine_glass: :cocktail: LIMITED HOURS Wed-Sun 4-8pm |
 | Geisha | [Website](http://www.geisha3470ny.com/) <br/>212-862-7800 | Sign outside says: Call for pickup. UberEats for delivery. *(5/3)* <br/>Supposedly also offering 15% off all orders over $10 at above website. *(5/2)* |
 | La Rubia | | |
 | Wholesome Garden | | |
@@ -56,8 +64,8 @@ SEE ALSO: [Upper Morningside Mutual Aid](http://uppermorningsidemutualaid.org/) 
 | Mama Sushi | [Website](https://www.mamasushi.com) | 10% off via their app *(5/3)* |
 | Hamilton's | | |
 | Jumbo Pizza Coffee Shop | | |
-| Harlem Public | [Website](https://www.harlempublic.com/) | Please order through the website. |
-| The Chipped Cup | [Website](https://www.chippedcupcoffee.com/) | Unconfirmed. They may be doing delivery. |
+| Harlem Public | [Website](https://www.harlempublic.com/) | :beer: :wine_glass: :cocktail: Please order through the website. |
+| The Chipped Cup | [Website](https://www.chippedcupcoffee.com/) | :coffee: |
 | The Handpulled Noodle | [Website](https://thehandpullednoodle.com/) | |
 | Sita Thai | | |
 | Taqueria San Pedro | 212-491-2644 | |
@@ -79,11 +87,11 @@ Need to check on Asian places down the hill
 | Home Sweet Harlem | [Website](https://homesweetharlem.nyc/) <br/> 212-926-9616 | During busy hours, delivery apps work best for faster service. <br/>Mon/Tue closes 3pm. Wed-Sun closes 10pm. |
 | Clove | | Reopened as of 5/16 |
 | Uncle Tony's Pizza | [Website](https://www.uncletonysnyc.com/) | Now Open Lunch and Dinner (as of 5/11) |
-| Fumo |  :white_check_mark:[Website](https://www.fumorestaurant.com/harlem/) <br/>  :white_check_mark:646-692-6675 | Discount for orders placed on their site. Temporarily no Brunch menu. |
+| Fumo |  :white_check_mark:[Website](https://www.fumorestaurant.com/harlem/) <br/>  :white_check_mark:646-692-6675 | :beer: :wine_glass: :cocktail: Discount for orders placed on their site. Temporarily no Brunch menu. |
 | Oso | [Website](https://osoharlem.square.site/)<br/>646-858-3139 |  Open Tues-Sun 2pm-9pm |
-| Double Dutch Coffee | | has a sign saying they're open. Was closed when I walked past, but may have been outside of their hours. |
-| The Grange | [Website](https://thegrangebarnyc.com/) <br/> 212-491-1635 | Open 4-10pm. Sat/Sun also brunch 12-4. |
-| Hogshead | [Website](http://www.hogsheadharlem.com/) | Various batch cocktail and beer pitcher specials.|
+| Double Dutch Coffee | | :coffee: |
+| The Grange | [Website](https://thegrangebarnyc.com/) <br/> 212-491-1635 | :beer: :wine_glass: :cocktail: Open 4-10pm. Sat/Sun also brunch 12-4. |
+| Hogshead | [Website](http://www.hogsheadharlem.com/) | :beer: :wine_glass: :cocktail: Various batch cocktail and beer pitcher specials.|
 | La Nueva Caricia | | |
 | 1 Stop Patty Shop | | |
 | Ecuatoriana | | |
@@ -117,4 +125,4 @@ Need to check on Asian places down the hill
 | Devin's Fish & Chips | | |
 | Pizza by Lucille's | [Website](https://www.pizzabylucilles.com/) | |
 | Tulcimexico | 646-370-6842 | |
-| Common Good | [Website](https://www.commongoodharlem.com/) | |
+| Common Good | [Website](https://www.commongoodharlem.com/) |:coffee: |
