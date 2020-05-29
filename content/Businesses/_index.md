@@ -1,6 +1,7 @@
 ---
 title: "Local Businesses"
 menu: ["main","side"]
+weight: 500
 ---
 
 ### Coffee Roasters

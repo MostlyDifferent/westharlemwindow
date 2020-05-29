@@ -1,6 +1,7 @@
 ---
 title: "About"
 menu: ["main", "footer"]
+weight: 10000
 ---
 
 Hello to everybody! Welcome to West Harlem Window, a resource page for Hamilton Heights and the vicinity.
