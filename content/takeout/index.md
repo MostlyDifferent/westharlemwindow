@@ -44,7 +44,7 @@ SEE ALSO: [Upper Morningside Mutual Aid](http://uppermorningsidemutualaid.org/) 
 | Captain Loui | [Website](https://www.waitlist.me/w/captlouibroadway) | 3:30-7:30pm. Closed Tuesday *(sign 4/30)* |
 | Bettolona | [Website](https://www.bettolonanyc.com) <br/> [Facebook](https://www.facebook.com/Bettolona-145708885479882) <br/> 212-749-1125 <br/>[@bettolona.nyc](https://www.instagram.com/bettolona.nyc) | Open for Pickup and Delivery *(sign 4/30)* |
 | Pisticci | [Website](http://www.pisticcinyc.com/) <br/> 212-932-3500 <br/> [@pisticcinyc](https://www.instagram.com/pisticcinyc) | Open for delivery 5-10pm *(sign 4/30)* |
-| The Expat | [@theexpatny](https://www.instagram.com/theexpatny) | |
+| The Expat | [Website](https://www.theexpat.nyc/) <br/> [@theexpatny](https://www.instagram.com/theexpatny) | |
 
 - CLOSED: Kuro Kuma
 - UNKNOWN: Floridita
