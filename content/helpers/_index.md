@@ -14,6 +14,16 @@ People and organizations doing good things...
 - [Invisible Hands](http://invisiblehandsdeliver.org/): Meal delivery assistance
 - [Upper Morningside Mutual Aid](http://uppermorningsidemutualaid.org/): Mutual aid group directly to our south
 
+## Food
+
+In addition to Mutual Aid groups, here are some food-specific resources:
+
+- [Get Food NYC](https://www1.nyc.gov/assets/dsny/contact/services/COVID-19FoodAssistance.shtml): Guide from the city on where and how to get food
+- [Free Meals](https://www.schools.nyc.gov/school-life/food/free-meals) Free meals for ANYONE daily, Monday-Friday, distributed at local schools
+- [Hamilton/Morningside Food Resource Guide](https://www.nycfoodpolicy.org/coronavirus-nyc-food-resource-guide-morningside-heights-hamilton-heights/) Thorough listing of all food options, compiled by Hunter College
+- [Plentiful](https://www.plentifulapp.com/) Food pantry app, including online reservations
+- [The City - How To Get Food Right Now](https://www.thecity.nyc/coronavirus/2020/5/26/21273149/how-to-get-food-in-new-york-right-now-and-how-to-help-feed) Recent article detailing food options.
+
 ## Ongoing Community Support
 
 - [P.A.'L.A.N.T.E. Harlem](https://www.palanteharlem.org/): Tenant Advocacy

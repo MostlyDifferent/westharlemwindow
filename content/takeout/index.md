@@ -5,7 +5,6 @@ weight: 100
 sidebar: false
 ---
 
-:heart:
 During the COVID-19 shutdown, it can be difficult to know which restaurants are open. Hours and menus are changing all the time. Below is the best information I have for takeout/delivery in the neighborhood.
 
 Please make an effort to call direct or use their preferred website if available, as some apps are charging huge fees. Most of these establishments can also be found online via GrubHub, DoorDash, UberEats, etc. Where possible, their preferred method of ordering is listed.
@@ -133,4 +132,7 @@ Need to check on Asian places down the hill
 | Pizza by Lucille's | [Website](https://www.pizzabylucilles.com/) <br/> [@pizzabylucilles](https://www.instagram.com/pizzabylucilles) | Also sells frozen pizzas to bake at home. |
 | Tulcimexico | 646-370-6842 | |
 | Common Good <br/>  :coffee: | [Website](https://www.commongoodharlem.com/) <br/> [@commongoodharlem](https://www.instagram.com/commongoodharlem) | |
+
+# Further North
+
 | Salento <br/> :coffee: | [Website](https://www.salento-ny.com/) <br/> [@salentonyc](https://www.instagram.com/salentonyc) | |
