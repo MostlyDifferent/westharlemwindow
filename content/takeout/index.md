@@ -7,6 +7,12 @@ sidebar: false
 
 During the COVID-19 shutdown, it can be difficult to know which restaurants are open. Hours and menus are changing all the time. Below is the best information I have for takeout/delivery in the neighborhood.
 
+## Due to the curfew and Phase 1 of reopening, this list may be inaccurate...
+
+Hours are changing rapidly for restaurants all over town.
+I'm keeping an eye and deciding how useful this page will be in the future.
+At the moment, I'm finding that most neighborhood spots are now once again open, and hours are beginning to normalize. (6-7-20)
+
 Please make an effort to call direct or use their preferred website if available, as some apps are charging huge fees. Most of these establishments can also be found online via GrubHub, DoorDash, UberEats, etc. Where possible, their preferred method of ordering is listed.
 
 Keeping this list to Hamilton Heights and walkable vicinity for the moment. 
@@ -57,8 +63,10 @@ SEE ALSO: [Upper Morningside Mutual Aid](http://uppermorningsidemutualaid.org/) 
 | La Lonchera <br/>  :coffee: | [@l_alonchera](https://www.instagram.com/l_alonchera)||
 | Picante | [@picante_mexican__restaurant](https://www.instagram.com/picante_mexican__restaurant)| |
 | Trufa <br/>  :bike: :beer: :wine_glass: |  :white_check_mark: [Website](https://trufarestaurant.com/) <br/> :white_check_mark: 646-522-4142 <br/>  :white_check_mark: 212-281-6165 <br/> [@trufarestaurant](https://www.instagram.com/trufarestaurant)|  Call or order on their website. <br/>Coffee mugs for sale with original artwork. <br/> Reopened after brief closure due to gas leak. Limited menu as they adjust to an electric kitchen awaiting gas line repair.|
+| Silver Palace | | |
 | Frijolito's | [@frijolitosharlem](https://www.instagram.com/frijolitosharlem)| Sun-Thurs 2-9pm. Fri-Sat 2-10pm |
 | Lyn-Genet's Kitchen <br/> :beer: :wine_glass: :cocktail:  | [Website](https://lyngenetskitchen.com/) <br/> [@lyngenetskitchen](https://www.instagram.com/lyngenetskitchen) |LIMITED HOURS Wed-Sun 4-8pm |
+| ROKC| | |
 | Geisha | [Website](http://www.geisha3470ny.com/) <br/>212-862-7800<br/>[@geishalounge_](https://www.instagram.com/geishalounge_) | Sign outside says: Call for pickup. UberEats for delivery. *(5/3)* <br/>Supposedly also offering 15% off all orders over $10 at above website. *(5/2)* |
 | La Rubia | | |
 | Wholesome Garden | | |
