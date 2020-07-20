@@ -2,6 +2,7 @@ baseURL = "https://www.westharlemwindow.com/"
 languageCode = "en-us"
 title = "West Harlem Window"
 theme = "mainroad"
+#theme = "hugo-universal-theme"
 #theme = "zzo"
 
 enableEmoji = true
@@ -10,6 +11,10 @@ enableEmoji = true
  [markup.goldmark.renderer]
       unsafe = true
 
+[Params]
+#  toc = true
+    #What sections have their contents displayed on the homepage
+ mainSections = ["posts"]
 
 [Params.logo]
   title = "West Harlem Window" # Logo title, otherwise will use site title
@@ -37,7 +42,5 @@ enableEmoji = true
   #gitlab = "username"
   #bitbucket = "username"
   email = "westharlemwindow@gmail.com"
-
-
 
 

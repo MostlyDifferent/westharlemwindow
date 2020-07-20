@@ -1,10 +1,14 @@
 ---
-title: "Local Businesses"
+title: "Buy Local"
 menu: ["main","side"]
 weight: 500
 ---
 
-### Coffee Roasters
+### Food
+
+Learn how to find [locally-sourced food](localfood).
+
+### Coffee
 
 - [Reflector Coffee](https://www.reflectorcoffee.com/)
 

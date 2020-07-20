@@ -1,8 +1,8 @@
 ---
 title: "Takeout"
-menu: ["main", "side"]
 weight: 100
 sidebar: false
+draft: true
 ---
 
 During the COVID-19 shutdown, it can be difficult to know which restaurants are open. Hours and menus are changing all the time. Below is the best information I have for takeout/delivery in the neighborhood.
