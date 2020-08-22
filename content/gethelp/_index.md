@@ -1,6 +1,6 @@
 ---
 title: "Get Help"
-menu: ["main", "side"]
+menu: ["main"]
 weight: 200
 ---
 

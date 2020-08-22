@@ -1,6 +1,6 @@
 ---
 title: "Buy Local"
-menu: ["main","side"]
+menu: ["main"]
 weight: 500
 ---
 

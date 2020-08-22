@@ -18,7 +18,7 @@ enableEmoji = true
 
 [Params.logo]
   title = "West Harlem Window" # Logo title, otherwise will use site title
-  subtitle = "Hamilton Heights in Interesting Times" # Logo subtitle
+  subtitle = "Hamilton Heights, Manhattanville, Sugar Hill, and more" # Logo subtitle
 
 [Params.sidebar]
   home = "right" # Configure layout for home page

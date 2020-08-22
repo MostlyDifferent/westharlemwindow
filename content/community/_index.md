@@ -1,11 +1,11 @@
 ---
 title: "Community"
-menu: ["main", "side"]
+menu: ["main"]
 weight: 100
 ---
 
 * [Elected Officials](electedofficials) for Hamilton Heights and the vicinity
 * [Community Board 9](communityboard)
 * [Voting Information](elections)
-* [Organizations](orgs)
+* [Education](education)
 * [News](news)
