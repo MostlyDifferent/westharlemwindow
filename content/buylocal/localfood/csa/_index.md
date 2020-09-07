@@ -15,4 +15,4 @@ commit to an entire season.
 * [Corbin Hill Food Project](http://corbinhill-foodproject.org/farmshare): Produce fresh from local farms, delivered weekly. 
 Geared toward providing fresh, affordable options to lower-income residents. Also features a higher-priced option wherein
 those who can afford it pay more to help offset the cost for their neighbors. Accepts Cash, Check, Credit, EBT/SNAP, HealthBucks. 
-Distributes every Wednesday at [Brotherhood Sister Sol](/community/orgs/brotherhoodsistersol)
+Distributes every Wednesday at [Brotherhood Sister Sol](/community/orgs/brosis)
