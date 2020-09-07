@@ -17,7 +17,8 @@ Black-owned local independent bookstore and community center.
 
 ## Go to them for...
 
-Thought-provoking books, and community engagement. Also, virtual book clubs.
+Thought-provoking books, and community engagement. Also, virtual book clubs (see IG: [@sistersuptown](https://www.instagram.com/sistersuptown)) 
+in collaboration with [WordUp](/orgs/communityjustice/wordup).
 
 ## How can neighbors help them?
 

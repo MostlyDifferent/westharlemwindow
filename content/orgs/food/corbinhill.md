@@ -24,7 +24,7 @@ The program is not only for low-income residents, however. Anyone is welcome to 
 produce. Those who can afford more are encouraged to consider the "Social Impact Shareholder" plan to help subsidize your neighbors in need.
 
 The Corbin Hill farm share distributes at [several locations](http://corbinhill-foodproject.org/locations), including every Wednesday afternoon 
-in front of [Brotherhood / Sister Sol](/orgs/brotherhoodsistersol) in the plaza at Amsterdam between 143-144.
+in front of [Brotherhood / Sister Sol](/orgs/brosis) in the plaza at Amsterdam between 143-144.
 
 **You must [SIGN UP](http://corbinhill-foodproject.org/sign-up) in advance to participate.** There is also a small youth farmers market at the same site
 on Wednesdays, a separate service from the CSA/Farm Share.
