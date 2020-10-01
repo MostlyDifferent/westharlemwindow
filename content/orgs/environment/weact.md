@@ -10,8 +10,15 @@ summary: Environmental Justice
 
 ## What They Do
 
-Environmental Justice
+Environmental Justice research, advocacy, and organizing. 
 
 ## Go to them for...
 
+A network of people dedicated to positive change in local, state, and federal policy that affects
+upper Manhattan.
+
 ## How can neighbors help them?
+
+* Volunteer
+* Donate
+* Spread the word about their campaigns.
